@@ -1,5 +1,5 @@
-//visit is 'Live' Button
-//source is 'Source' Button
+//visit is 'Live' Button (live website)
+//source is 'Source' Button (github repository)
 
 export const projects = [
   {
@@ -17,25 +17,25 @@ export const projects = [
     description:
       "Constructed Full - Stack Blog website to upload new technology learnings and project progressions. Implemented GraphQL including schemas, models, and querying of data to upload posts. Implemented user comment section where people can leave feedback on any post",
     image: "/images/2.png",
-    tags: ["React", "Next JS", "Graph QL"],
+    tags: ["React", "TailWind CSS", "Graph QL"],
     source: "https://github.com/aHumptyDumpty/learners-blog-post",
     visit: "https://google.com",
     id: 1,
   },
   {
-    title: "WebRTC App",
+    title: "Rock Paper Scissors Online",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      "This is a Rock Paper Scissors game project from The Odin Project's Web Development 101, also made as a school project for Intro to Computer Science",
     image: "/images/3.jpg",
-    tags: ["React", "WebRTC"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    tags: ["HTML", "CSS", "Javascript"],
+    source: "https://github.com/aHumptyDumpty/Rock-Paper-Scissors",
+    visit: "https://ahumptydumpty.github.io/Rock-Paper-Scissors/",
     id: 2,
   },
   {
     title: "Personal Website",
     description:
-      "This personal website was constructed with users in mind for easy access and complete responsiveness regardless of device. Utilized Javascript libraries and technologies in combination with React to build out untuitive and seamless design",
+      "This personal website was constructed with users in mind for easy access and complete responsiveness regardless of device. Utilized Javascript libraries and technologies in combination with React to build out intuitive and seamless design",
     image: "/images/4.jpg",
     tags: ["React", "Next JS", "Github"],
     source: "https://google.com",
@@ -47,9 +47,9 @@ export const projects = [
 export const TimeLineData = [
   { year: 2019, text: "Worked as a freelance developer" },
   { year: 2020, text: "Joined Capgemini as a Software Engineer" },
-  { year: 2021, text: "Full Stack Developer at Vanguard" },
+  { year: 2021, text: "Joined Vanguard as a Full-Stack Developer" },
   {
     year: "Today",
-    text: "Learning and exploring Blockchain space while mastering Full-Stack technologies.",
+    text: "Always learning, curious, exploring different techonlogies - such as Blockchain meanwhile mastering Full-Stack technologies.",
   },
 ];
