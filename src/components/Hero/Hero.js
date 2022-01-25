@@ -11,7 +11,7 @@ const Hero = (props) => (
       Bryan - Full Stack Developer <br />
     </SectionTitle>
     <SectionText>
-      Hi, my name is Bryan, I am a Full-Stack Developer based in Chicago with 2 years of Experience. 🧑🏻‍💻 I am currently working as a Software Engineer @ Vanguard.
+      Hi, my name is Bryan, I am a Full-Stack Developer based in Chicago with 2 years of professional experience. 🧑🏻‍💻 I am currently working as a Software Engineer @ Vanguard.
       <br />
       For any queries please feel free to contact me!
  
