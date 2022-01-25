@@ -19,7 +19,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["React", "TailWind CSS", "Graph QL"],
     source: "https://github.com/aHumptyDumpty/learners-blog-post",
-    visit: "https://google.com",
+    visit: "https://learners-blog-post-4677qvtt7-ahumptydumpty.vercel.app/",
     id: 1,
   },
   {
