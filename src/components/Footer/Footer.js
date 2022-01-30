@@ -16,15 +16,15 @@ const Footer = () => {
   
      <LinkColumn>
        <LinkTitle>Resume</LinkTitle>
-       <LinkItem><a href = "public/images/1.png" >View Resume PDF</a></LinkItem>
+       <LinkItem><a href = "public/resume/Bryan_Arriaga_Software_Engineer.pdf" >View Resume PDF</a></LinkItem>
      </LinkColumn>
    </LinkList>
    <SocialIconsContainer>
      <SocialIcons href="https://github.com/aHumptyDumpty">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="">
-        add resume <AiFillFile size="3rem" />
+      <SocialIcons href="public/resume/Bryan_Arriaga_Software_Engineer.pdf">
+         <AiFillFile size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://linkedin.com/in/bryan-arriaga/">
         <AiFillLinkedin size="3rem" />
