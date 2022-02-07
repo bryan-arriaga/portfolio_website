@@ -37,8 +37,8 @@ export const projects = [
     description:
       "This personal website was constructed with users in mind for easy access and complete responsiveness regardless of device. Utilized Javascript libraries and technologies in combination with React to build out intuitive and seamless design",
     image: "/images/4.jpg",
-    tags: ["React", "Next JS", "Github"],
-    source: "https://google.com",
+    tags: ["React", "Next JS", "VSCode"],
+    source: "https://github.com/aHumptyDumpty/portfolio_website",
     visit: "https://google.com",
     id: 3,
   },
