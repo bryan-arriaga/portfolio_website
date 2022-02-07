@@ -1,3 +1,4 @@
 ## Personal Portfolio Website
+Check out my website here : https://portfolio-website-tau-eosin.vercel.app/
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Working on deployment for my own domain.
