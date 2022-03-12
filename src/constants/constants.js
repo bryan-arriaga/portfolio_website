@@ -39,7 +39,7 @@ export const projects = [
     image: "/images/4.jpg",
     tags: ["React", "Next JS", "VSCode"],
     source: "https://github.com/aHumptyDumpty/portfolio_website",
-    visit: "https://google.com",
+    visit: "https://portfolio-website-tau-eosin.vercel.app/",
     id: 3,
   },
 ];

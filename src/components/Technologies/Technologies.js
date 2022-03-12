@@ -35,10 +35,10 @@ const Technologies = () =>  (
       <ListItem>
         <DiFirebase size = "4rem"/>
         <ListContainer>
-          <ListTitle>Cloud</ListTitle>
+          <ListTitle>Build Deployment</ListTitle>
           <ListParagraph>
             Experience with <br />
-            AWS Services
+            Atlassian Bamboo Deployment
           </ListParagraph>
         </ListContainer>
       </ListItem>
