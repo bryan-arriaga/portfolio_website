@@ -9,7 +9,7 @@ const Technologies = () =>  (
   <br /><br /> <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have experience in a range of technologies working as a Full-Stack Dev. Ranging from from Front-End to AWS Services and everything in between.
+      I have a range of experience with technologies working as a Full-Stack Dev with a strong focus centered around the Front-End utilzing Javascript and different frameworks.
     </SectionText>
     <List>
       <ListItem>
