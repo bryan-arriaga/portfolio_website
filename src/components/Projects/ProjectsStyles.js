@@ -35,7 +35,7 @@ export const TitleContent = styled.div`
   text-align: center;
   z-index: 20;
   width: 100%;
-
+  padding: 10px 0px 10px 0px;
 `;
 
 
