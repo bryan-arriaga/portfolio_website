@@ -8,10 +8,10 @@ const Hero = (props) => (
   <Section row nopadding>
   <LeftSection>
     <SectionTitle main center>
-      Bryan - Full Stack Developer <br />
+      Bryan - Software Engineer <br />
     </SectionTitle>
     <SectionText>
-      Hi, my name is Bryan, I am a Full-Stack Developer based in Chicago with 2 years of professional experience. 🧑🏻‍💻 I am currently working as a Software Engineer @ Vanguard.
+      Hi, my name is Bryan, I am a Software Engineer based in Chicago with 2 years of professional experience. 🧑🏻‍💻 I am currently working @ Vanguard!
       <br />
       For any queries please feel free to contact me!
  
