@@ -7,7 +7,7 @@ export const projects = [
     description:
       "This Freelance Project was built using HTML, CSS, Javascript to construct website for Monarchs Rug Cleaners. Implemented scheduling component for customers and Front-End re-design.",
     image: "/images/1.png",
-    tags: ["Javascript", "HTML", "CSS", "Hostinger"],
+    tags: ["Javascript", "Bootstrap 4", "Hostinger"],
     source: "https://github.com/aHumptyDumpty/Monarch-Business-Website",
     visit: "https://monarchrugcleaner.com/",
     id: 0,
