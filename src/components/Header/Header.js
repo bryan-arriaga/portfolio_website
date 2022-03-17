@@ -17,8 +17,7 @@ const Header = () => (
   <Container>
     <Div1>
       <Link href="/">
-        <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: "20px" }}>
-          
+        <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: "20px" }}> 
         </a>
       </Link>
     </Div1>
